@@ -1,0 +1,48 @@
+﻿生成启动时间为 2016/10/12 22:58:49。
+     1>项目“F:\VCP\C++code\LeetCode\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(44): warning C4244: “+=”: 从“double”转换到“__int64”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(48): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(73): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(88): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(91): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(131): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(237): warning C4018: “>”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(372): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(394): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(417): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(430): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(467): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(479): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(498): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(499): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(509): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(511): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(528): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(530): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(551): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(552): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(557): warning C4018: “>=”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(560): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(704): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(743): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(795): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(889): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(890): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(910): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(941): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(995): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(1014): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
+     1>f:\vcp\c++code\leetcode\leetcode\test.cpp(1091): warning C4129: “:”: 不可识别的字符转义序列
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VCP\C++code\LeetCode\Debug\LeetCode.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\VCP\C++code\LeetCode\Debug\LeetCode.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VCP\C++code\LeetCode\Debug\LeetCode.lib" /MACHINE:X86 Debug\Test.obj
+         LeetCode.vcxproj -> F:\VCP\C++code\LeetCode\Debug\LeetCode.exe
+     1>已完成生成项目“F:\VCP\C++code\LeetCode\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:06.23
